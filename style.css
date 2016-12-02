@@ -8,7 +8,7 @@
   font-family: "Futura", serif;
   width:100%;
 }
-#index main
+.main
 {
   background-color: white;
   width: 1244px;
@@ -24,7 +24,7 @@
   top: 18px;
   box-shadow: 8px 8px 10px #6c6e70;
 }
-#index h1
+.page-head
 {
   background-color: #424447;
   color:lightgray;
@@ -42,12 +42,13 @@
 position: absolute; 
 top: 10em;
 }
-#index h2
+.list-title
 {
   background-color: #424447;
   padding:6px;
   color: lightgray;
   border-radius: 10px;
+  width:13em;
 }
  .list-style
 {
@@ -107,16 +108,39 @@ color: black;
 
 #dell
 {
-  background-image: ("images/bg1.jpg");
+  background: url("images/bg1.jpg");
+  font-family: "Futura", serif;
+  width:100%;
+}
+.table
+{
+  position:absolute;
+  top: 10em;
+}
+.img-other
+{
+  border: 3px black solid;
+  border-radius:30px;
+  position: relative;
+  left:30em;
+  top: 20px;
+  box-shadow: 8px 8px 10px #6c6e70;
+}
 
+.back-home
+{
+  background-color: #972b51;
+  border-radius:2px;
+  color: white;
+  padding: 3px;
 }
 #mac
 {
-  background-image: ("images/bg1.jpg");
+  background: url("images/bg1.jpg");
  
 }
 
 #surface
 {
-  background-image: ("images/bg1.jpg");
+  background: url("images/bg1.jpg");
 }
