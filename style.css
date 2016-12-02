@@ -1,10 +1,109 @@
+
 /* This style sheet has all the propitiates of the elements and the pages styles of the entire website.*/
+
+/* This style refer to the index page*/
 #index
 {
-  background-image: ("images/bg1.jpg");
- 
-
+  background: url("images/bg1.jpg");
+  font-family: "Futura", serif;
+  width:100%;
 }
+#index main
+{
+  background-color: white;
+  width: 1244px;
+  padding-left: 20px;
+  padding-bottom:1em;
+}
+.img-style
+{
+  border: 3px black solid;
+  border-radius:30px;
+  position: relative;
+  left:22em;
+  top: 18px;
+  box-shadow: 8px 8px 10px #6c6e70;
+}
+#index h1
+{
+  background-color: #424447;
+  color:lightgray;
+  font-family: Tahoma;
+  font-size: 30px;
+  padding: 25px;
+  position: relative;
+  right: 20px;
+  top: -20px;
+  width: 1214px;
+  border-bottom: 35px solid #972b51;
+}
+#index nav
+{
+position: absolute; 
+top: 10em;
+}
+#index h2
+{
+  background-color: #424447;
+  padding:6px;
+  color: lightgray;
+  border-radius: 10px;
+}
+ .list-style
+{
+  list-style-position: inside;
+  padding: 5px;
+  border-left: solid 8px gray;
+}
+.list-style li
+{
+  margin-bottom: 15px;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+.list-style a:visited 
+{
+color: black;
+}
+.list-style a:hover
+{
+  color:white;
+}
+#site
+{
+  background-color: #424447;
+  width: 15em;
+  position: relative;
+  left: 2.5em;
+  bottom:1em;
+  text-align: center;
+  padding:0.1px; 
+  border-radius: 10px;
+}
+#site a 
+{
+  color:white;
+}
+#site a:hover
+{
+  color:black;
+}
+#site-info
+{
+  width: 20em;
+  padding: 5px;
+  background-color:lightgray; 
+  border-radius: 5px;
+  box-shadow: 8px 8px 10px #6c6e70;
+  text-align: center;
+}
+#index footer
+{
+ text-align: center;
+ padding-top: 9em;
+}
+
+/*----------------------End--------------------------*/
 
 #dell
 {
