@@ -1,7 +1,6 @@
 
 /* This style sheet has all the propitiates of the elements and the pages styles of the entire website.*/
 
-/* This style refer to the index page*/
 #index
 {
   background: url("images/bg1.jpg");
@@ -103,9 +102,6 @@ color: black;
  text-align: center;
  padding-top: 9em;
 }
-
-/*----------------------End--------------------------*/
-
 #dell
 {
   background: url("images/bg1.jpg");
@@ -126,7 +122,6 @@ color: black;
   top: 20px;
   box-shadow: 8px 8px 10px #6c6e70;
 }
-
 .back-home
 {
   background-color: #972b51;
@@ -139,8 +134,8 @@ color: black;
   background: url("images/bg1.jpg");
  
 }
-
 #surface
 {
   background: url("images/bg1.jpg");
 }
+/*----------------------End--------------------------*/
