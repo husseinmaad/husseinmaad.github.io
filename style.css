@@ -132,10 +132,13 @@ color: black;
 #mac
 {
   background: url("images/bg1.jpg");
- 
+  font-family: "Futura", serif;
+  width:100%;
 }
 #surface
 {
   background: url("images/bg1.jpg");
+  font-family: "Futura", serif;
+  width:100%;
 }
 /*----------------------End--------------------------*/
