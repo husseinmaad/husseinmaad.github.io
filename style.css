@@ -153,3 +153,10 @@ color: black;
   top: 6em;
 }
 /*----------------------End--------------------------*/
+@media screen and (max-width: 1000px)
+{
+  #index
+  {
+    
+  }
+}
