@@ -1,162 +1,183 @@
-
 /* This style sheet has all the propitiates of the elements and the pages styles of the entire website.*/
 
-#index
-{
-  background: url("images/bg1.jpg");
-  font-family: "Futura", serif;
-  width:100%;
+#index {
+    background: url("images/bg1.jpg");
+    font-family: "Futura", serif;
+    width: 100%;
 }
-.main
-{
-  background-color: white;
-  width: 1244px;
-  padding-left: 20px;
-  padding-bottom:1em;
+.main {
+    background-color: white;
+    width: 1244px;
+    padding-left: 20px;
+    padding-bottom: 1em;
 }
-.img-style
-{
-  border-radius:20px;
-  position: relative;
-  left:22em;
-  top: 18px;
-  box-shadow: 8px 8px 10px #6c6e70;
+.img-style {
+    border-radius: 20px;
+    position: relative;
+    left: 25em;
+    top: 18px;
+    box-shadow: 8px 8px 10px #6c6e70;
 }
-.page-head
-{
-  background-color: #424447;
-  color:lightgray;
-  font-family: Tahoma;
-  font-size: 30px;
-  padding: 25px;
-  position: relative;
-  right: 20px;
-  top: -20px;
-  width: 1214px;
-  border-bottom: 35px solid #972b51;
+.page-head {
+    background-color: #424447;
+    color: lightgray;
+    font-family: Tahoma;
+    font-size: 30px;
+    padding: 25px;
+    position: relative;
+    right: 20px;
+    top: -20px;
+    width: 1214px;
+    border-bottom: 35px solid #972b51;
 }
-#index nav
-{
-position: absolute; 
-top: 10em;
+#index nav {
+    position: absolute;
+    top: 10em;
 }
-.list-title
-{
-  background-color: #424447;
-  padding:6px;
-  color: lightgray;
-  border-radius: 10px;
-  width:13em;
+.list-title {
+    background-color: #424447;
+    padding: 6px;
+    color: lightgray;
+    border-radius: 10px;
+    width: 13em;
 }
- .list-style
-{
-  list-style-position: inside;
-  padding: 5px;
-  border-left: solid 8px gray;
+.list-style {
+    list-style-position: inside;
+    padding: 5px;
+    border-left: solid 8px gray;
 }
-.list-style li
-{
-  margin-bottom: 15px;
-  background-color: lightgray;
-  border-radius: 5px;
+.list-style li {
+    margin-bottom: 15px;
+    background-color: lightgray;
+    border-radius: 5px;
 }
-.list-style a:visited 
-{
-color: black;
+.list-style a:visited {
+    color: black;
 }
-.list-style a:hover
-{
-  color:white;
+.list-style a:hover {
+    color: white;
 }
-#site
-{
-  background-color: #424447;
-  width: 15em;
-  position: relative;
-  left: 2.5em;
-  bottom:1em;
-  text-align: center;
-  padding:0.1px; 
-  border-radius: 10px;
+#site {
+    background-color: #424447;
+    width: 15em;
+    position: relative;
+    left: 2.5em;
+    bottom: 1em;
+    text-align: center;
+    padding: 0.1px;
+    border-radius: 10px;
 }
-#site a 
-{
-  color:white;
+#site a {
+    color: white;
 }
-#site a:hover
-{
-  color:black;
+#site a:hover {
+    color: black;
 }
-#site-info
-{
-  width: 20em;
-  padding: 5px;
-  background-color:lightgray; 
-  border-radius: 5px;
-  box-shadow: 8px 8px 10px #6c6e70;
-  text-align: center;
+#site-info {
+    width: 20em;
+    padding: 5px;
+    background-color: lightgray;
+    border-radius: 5px;
+    box-shadow: 8px 8px 10px #6c6e70;
+    text-align: center;
 }
-#index footer
-{
- text-align: center;
- padding-top: 7em;
+#index footer {
+    text-align: center;
+    padding-top: 7em;
 }
-#dell
-{
-  background: url("images/bg1.jpg");
-  font-family: "Futura", serif;
-  width:100%;
+#dell {
+    background: url("images/bg1.jpg");
+    font-family: "Futura", serif;
+    width: 100%;
 }
-.table
-{
-  position:absolute;
-  top: 10em;
+.table {
+    position: absolute;
+    top: 10em;
 }
-.img-other
-{
- 
-  border-radius:20px;
-  position: relative;
-  left:30em;
-  top: 20px;
-  box-shadow: 8px 8px 10px #6c6e70;
+.img-other {
+    border-radius: 20px;
+    position: relative;
+    left: 30em;
+    top: 20px;
+    box-shadow: 8px 8px 10px #6c6e70;
 }
-.back-home
-{
-  background-color: #972b51;
-  border-radius:2px;
-  color: #e3e7ed;
-  padding: 3px;
+.back-home {
+    background-color: #972b51;
+    border-radius: 2px;
+    color: #e3e7ed;
+    padding: 3px;
 }
-#mac
-{
-  background: url("images/bg1.jpg");
-  font-family: "Futura", serif;
-  width:100%;
+#mac {
+    background: url("images/bg1.jpg");
+    font-family: "Futura", serif;
+    width: 100%;
 }
-#surface
-{
-  background: url("images/bg1.jpg");
-  font-family: "Futura", serif;
-  width:100%;
+#surface {
+    background: url("images/bg1.jpg");
+    font-family: "Futura", serif;
+    width: 100%;
 }
-#register
-{
- background: url("images/bg1.jpg");
-  font-family: "Futura", serif;
-  width:100%;
+#register {
+    background: url("images/bg1.jpg");
+    font-family: "Futura", serif;
+    width: 100%;
 }
-.tab 
-{
-  position: absolute;
-  color: lightgray;
-  top: 6em;
+.tab {
+    position: absolute;
+    color: lightgray;
+    top: 6em;
 }
 /*----------------------End--------------------------*/
-@media screen and (max-width: 1000px)
-{
-  #index
-  {
-    
-  }
+/* Responsive style */
+
+@media screen and (max-width: 1200px) {
+    .main {
+        width: 100%;
+        height: auto;
+    }
+    .img-style {
+        left: 16em;
+        width: 60%;
+        height: auto;
+    }
+    .page-head {
+        width: 100%;
+        height: auto;
+        font-size: 150%;
+    }
+    .tab {
+        font-size: 90%;
+    }
+    .list-style li {
+        width: 100%;
+        height: auto;
+        font-size: 90%;
+    }
+    .list-style {
+        width: 70%;
+        height: auto;
+    }
+    .list-title {
+        width: 100%;
+        height: auto;
+        font-size: 100%;
+    }
+    #site {
+        width: 20%;
+        height: auto;
+        margin: 40px;
+        left: -1em;
+        bottom: -2em;
+        font-size: 90%;
+    }
+    #site-info {
+        width: 30%;
+        height: auto;
+        margin: 0px;
+        font-size: 80%;
+    }
+    #index footer {
+        margin: -5em;
+        font-size: 80%;
+    }
 }
