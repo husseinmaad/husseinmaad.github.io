@@ -155,8 +155,64 @@ color: black;
 /*----------------------End--------------------------*/
 @media screen and (max-width: 1000px)
 {
-  #index
-  {
-    
+  .main
+    {
+      width: 100%;
+      height :auto;
+    }
+  .img-style 
+  { 
+    left: 16em;
+    width: 60%;
+    height :auto;
   }
-}
+
+  .page-head
+  {
+    width: 100%;
+    height :auto;
+    font-size: 180%;
+  }
+
+  .list-style li
+  {
+    width: 100%;
+    height :auto;
+    font-size: 90%;
+  }
+   .list-style 
+  {
+    width: 70%;
+    height :auto;
+  }
+  .list-title
+    {
+    width: 100%;
+    height :auto;
+    font-size: 100%;
+    }
+
+    #site
+    {
+    width: 20%;
+    height :auto;
+    margin: 40px;
+    left: -1em;
+    bottom: -2em;
+    font-size: 90%;
+    }
+
+    #site-info
+    {
+      width: 30%;
+      height :auto;
+      margin: 0px;
+      font-size: 80%;
+    }
+    #index footer{
+
+      margin: -5em;
+      font-size: 80%;
+    }
+
+  }
